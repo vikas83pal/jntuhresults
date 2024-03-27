@@ -31,3 +31,30 @@ body {
     text-wrap: balance;
   }
 }
+
+table {
+  border: 1px solid white;
+  border-collapse: separate;
+  border-spacing: 2px;
+  width: 100%;
+  border-bottom-width: 1px;
+}
+
+th,
+td {
+  border: 1px solid white;
+  border-collapse: separate;
+  border-spacing: 2px;
+  height: 20px;
+}
+
+.selectth {
+  display: flex;
+  align-items: center;
+  border-collapse: separate;
+  background-color: transparent;
+  border-spacing: 2px;
+  height: max-content;
+  width: 100%;
+}
+
