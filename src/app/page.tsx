@@ -352,9 +352,7 @@ export default function Home() {
           Made with ❤ by &nbsp;
           <a target="_blank" rel="noreferrer" href="https://github.com/vikas83pal/" className="underline underline-offset-1">Vikas Pal</a>
         </p>
-        <p className="mt-4 block text-left mx-[18%] text-center mb-4 text-[75%] sm:text-[100%]">
-          Collaborates: Aravind, Vishnu, Prasad.
-        </p>
+        
       </footer>
     </>
   );
